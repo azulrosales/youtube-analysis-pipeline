@@ -14,7 +14,7 @@ S3, Glue, Lambda, CloudWatch, Athena, QuickSight.
 ## Architecture Diagram
 ![image](https://user-images.githubusercontent.com/88837594/212792802-b45fa449-8206-4d7a-a69b-7bffb647b853.png)
 
-Dashboard created using QuickSight:
+**Dashboard created using QuickSight:**
 ![image](https://user-images.githubusercontent.com/88837594/212791517-7788a93f-c224-4919-9a52-87d9b5adede5.png)
 
 ## Dataset Used
